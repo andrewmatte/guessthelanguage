@@ -1,0 +1,1 @@
+The LibreOffice project has about 77 wordlists that are used for spellchecking. I leveraged these wordlists to create a guessing game. I don't think anyone speaks 77 languages, so it's a fun game to try to guess the language based on the alphabet and words. It's challenging. I recommend trying it.
